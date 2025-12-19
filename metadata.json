@@ -1,0 +1,7 @@
+{
+  "name": "BevOrder",
+  "description": "A premium beverage distribution digital menu and ordering application.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
